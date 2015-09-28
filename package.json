@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/timkrapil/tkapi",
   "dependencies": {
+    "elasticsearch": "^8.2.0",
     "express": "^4.13.3"
   }
 }
